@@ -45,14 +45,10 @@ A simple command-line interface (CLI) for managing a to-do list. This CLI allows
     Update the text of an existing to-do.
 
     ```bash
-    node index.js update "<oldTodoText>" "<newTodoText>"
-    
-For example:
-    ```bash
     node index.js update "Buy groceries" "Buy vegetables"
 
 4. **Deleting a To-do**
-    Delete a specific to-do by its text.
+Delete a specific to-do by its text.
 
     ```bash
     node index.js delete "Buy vegetables"
