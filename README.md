@@ -57,4 +57,4 @@ For example:
     ```bash
     node index.js delete "Buy vegetables"
 
-    This will remove the to-do with the text "Buy vegetables" from your list, decrement the IDs of all following to-dos, and update the todoID.txt file accordingly.
+This will remove the to-do with the text "Buy vegetables" from your list, decrement the IDs of all following to-dos, and update the todoID.txt file accordingly.
